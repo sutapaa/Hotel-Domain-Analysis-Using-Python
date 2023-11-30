@@ -44,14 +44,21 @@ Navigated the intricacies of data manipulation with finesse, ensuring data integ
 
 💡 Key Insights:
 
-💰 Revenue Leaders:
+💎 Revenue Pinnacle:
 
-Mumbai asserted its dominance, claiming the revenue crown with an impressive 669M INR.
-Following closely, Bangalore secured the 2nd position, contributing significantly with a substantial 420M INR.
-🌟 Customer Favorites and Occupancy Dynamics:
+Mumbai claimed the revenue throne with an impressive 669M INR, showcasing undisputed dominance.
+Following suit, Bangalore secured the 2nd position, contributing significantly with a substantial 420M INR.
 
-Presidential Prestige: Presidential rooms garnered the highest rating at an impressive 3.69.
-Delhi's Distinction: Delhi not only stood out with an outstanding average rating of 3.78 but also held the crown for the highest occupancy, an impressive 62.47%.
-📊 Occupancy Percentage Insight:
+🌟 Customer Elegance and Occupancy Brilliance:
 
-Weekend Surpass: Notably, the occupancy percentage soared during weekends, reaching an impressive 72.3% compared to weekdays, which registered at 50.9%.
+Presidential Prestige: Garnering a stellar rating of 3.69, Presidential rooms emerged as the epitome of luxury.
+Delhi's Distinction: Delhi not only boasted an outstanding average rating of 3.79 but also commanded the highest occupancy at an impressive 61.6%.
+
+📊 Occupancy Percentage Symphony:
+
+Weekend Crescendo: The melody of occupancy soared during weekends, reaching a crescendo at an impressive 72.3%, gracefully surpassing the 50.9% noted on weekdays.
+
+💡 Extraordinary Insights:
+
+Booking Symphony: Harmonizing with booking platforms, 19.5% chose makeyourtrip, 10.7% opted for logtrip, while 41% orchestrated bookings through other sources.
+Revenue Ballet: Approximately 200M INR gracefully pirouetted into revenue through canceled bookings.
